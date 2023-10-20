@@ -1,0 +1,110 @@
+marquee {
+    color: purple;
+    font-size: 20px;
+}
+
+body {
+    background-color: palegreen;
+}
+
+.main {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    padding-bottom: 2em;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.first{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+
+hr {
+    border: 3px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.first {
+    background-color: navy;
+    color: beige;
+    margin-top: -40px;
+}
+
+.second {
+    display: block;
+    text-align: justify;
+}
+.second > p {
+    font-size: 20px;
+}
+.second > h2 {
+
+}
+
+.third {
+    padding: -10px;
+}
+
+.fourth {
+}
+.fourth > p {
+    font-size: 20px;
+}
+
+
+a.link1 {
+    color: blue;
+}
+a.link2 {
+    color: blue;
+}
+
+a.link1:visited {
+    color: purple;
+}
+a.link2:visited {
+    color: purple;
+}
+
+
+a.link1:hover {
+    color: crimson;
+    font-size: xx-large;
+}
+a.link2:hover {
+    color: crimson;
+    font-size: xx-large;
+}
+
+#sname a:hover {
+    font-size: 88px;
+    font-size-adjust: 20px;
+}
+
+
+.footer {
+    text-align: center;
+    background-color: aqua;
+    font-size: larger;
+    padding: 10px;
+    margin-top: 10px;
+}
+
